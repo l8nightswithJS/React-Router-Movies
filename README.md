@@ -23,6 +23,7 @@ Topics:
 
 ### Part 1:
 
+
 * Wrap your app with the router.
 * Inside your App file add two routes.
   * one route for `/` that loads the `MovieList` component.
